@@ -27,6 +27,16 @@
 <a href="https://www.behance.net/be.net/mrgfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="be.net/mrgfx" height="30" width="30" /></a>
 </p>
 
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
+</div>
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
+</div>
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedramdan1&show_icons=true&locale=en&layout=compact" alt="mohamedramdan1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedramdan1&show_icons=true&locale=en" alt="mohamedramdan1" /></p>
