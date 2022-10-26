@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Muhammad Ramadan</h1>
+<h1 align="center">Hi, I'm Muhammad Ramadan</h1>
 <h3 align="center">Front-End Developer | Ui-Ux Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedramdan1&label=Profile%20views&color=7017a1&style=flat" alt="mohamedramdan1" /> </p>
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/muhamadbayoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamadbayoumi" height="30" width="30" margin-right="20" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ramadan-067b45220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ramadan-067b45220/" height="30" width="30" /></a>
 <a href="https://fb.com/facebook.com/mrm.gfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/mrm.gfx" height="30" width="30" /></a>
-<a href="https://www.behance.net/be.net/mrgfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="be.net/mrgfx" height="30" width="30" /></a>
+<a href="https://www.behance.net/mrgfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="be.net/mrgfx" height="30" width="30" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadramdan1&show_icons=true&title_color=7a1779&text_color=b575f5&locale=en&layout=compact" alt="muhammadramdan1" /></p>
