@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadrmadaan&label=Profile%20views&color=7017a1&style=flat" alt="muhammadrmadaan" /> </p>
 
-- 🌱 I’m currently learning **tailwindcss, JavaScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **muhammadrmadaan@gmail.com**
 
