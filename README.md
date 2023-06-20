@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Ramadan</h1>
 <h3 align="center">Front-End Developer | Ui-Ux Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamad-ramadan&label=Profile%20views&color=7017a1&style=flat" alt="muhamad-ramadan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=argwd&label=Profile%20views&color=7017a1&style=flat" alt="argwd" /> </p>
 
 - 🌱 I’m currently learning **React js**
 
@@ -29,8 +29,8 @@
 <a href="https://www.behance.net/mrgfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="be.net/mrgfx" height="30" width="30" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamad-ramadan&show_icons=true&title_color=7a1779&text_color=b575f5&locale=en&layout=compact" alt="muhamad-ramadan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=argwd&show_icons=true&title_color=7a1779&text_color=b575f5&locale=en&layout=compact" alt="argwd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamad-ramadan&show_icons=true&title_color=7a17a1&text_color=b575f5&locale=en" alt="muhamad-ramadan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=argwd&show_icons=true&title_color=7a17a1&text_color=b575f5&locale=en" alt="argwd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-ramadan&" alt="muhamad-ramadan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=argwd&" alt="argwd" /></p>
