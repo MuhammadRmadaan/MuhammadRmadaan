@@ -1,6 +1,6 @@
 ## Hi, I am Muhammad 👋
-I am Frontend Egineer and UI UX Desiger with +2 years of experience, I work with the React ecosystem, I design and develop responsive and high quality user interfaces. I share my thoughts often to teach people about web development, JS, TS, React and Next.js.<br><br>
-🔭 Currently working on open-source projects.<br>🌱 Currently getting my Youtube channel ready.<br>💬 Ask me about anything 👉 mogdwd@gmail.com.<br>
+Frontend Engineer with 3 years of experience, Studies Computer Science and work with the React ecosystem. I design and develop responsive and high quality user interfaces. I share my thoughts once in a while to teach people about about web development, JavaScript and TypeScript, React and Next.js, and more.<br><br>
+🔭 Currently working on open-source projects.<br>🌱 Getting my Youtube channel ready.<br>💬 Ask me about anything 👉 mogdwd@gmail.com.<br>
 
 ##
 **How to reach me**
